@@ -10,7 +10,7 @@ Concepts learned through the project:
 -
 -
 -
-My own addition includes:
+My own addition will include:
 - change in UI colors
 - different layout for mobile and web keeping in mind device accessibility
 - ability to delete tweetz
